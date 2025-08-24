@@ -55,6 +55,7 @@
 
 ---
 ## 12. What actionable insights can wine producers use to improve quality or marketing strategies?
+- 
 
 ---
 ## 13. Key Insights
