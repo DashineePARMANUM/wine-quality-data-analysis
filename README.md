@@ -20,7 +20,7 @@ This project demonstrates data cleaning, exploratory analysis, and predictive mo
   - `Wine_Exercises.md` = Exercises/Questions
 - **`Wine_Images`** = screenshots
 - **`Wine_Scripts`:** 
-  - ``
+  - 
 
 ## Key Features
 - 
